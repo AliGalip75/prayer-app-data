@@ -1,0 +1,20 @@
+[
+  { "id": "1", "name": "MİRAC KANDİLİ", "date": "15 Ocak 2026", "day": "Perşembe" },
+  { "id": "2", "name": "BERAT KANDİLİ", "date": "2 Şubat 2026", "day": "Pazartesi" },
+  { "id": "3", "name": "RAMAZAN BAŞLANGICI", "date": "19 Şubat 2026", "day": "Perşembe" },
+  { "id": "4", "name": "KADİR GECESİ", "date": "16 Mart 2026", "day": "Pazartesi" },
+  { "id": "5", "name": "AREFE", "date": "19 Mart 2026", "day": "Perşembe" },
+  { "id": "6", "name": "RAMAZAN BAYRAMI (1. Gün)", "date": "20 Mart 2026", "day": "Cuma" },
+  { "id": "7", "name": "RAMAZAN BAYRAMI (2. Gün)", "date": "21 Mart 2026", "day": "Cumartesi" },
+  { "id": "8", "name": "RAMAZAN BAYRAMI (3. Gün)", "date": "22 Mart 2026", "day": "Pazar" },
+  { "id": "9", "name": "AREFE", "date": "26 Mayıs 2026", "day": "Salı" },
+  { "id": "10", "name": "KURBAN BAYRAMI (1. Gün)", "date": "27 Mayıs 2026", "day": "Çarşamba" },
+  { "id": "11", "name": "KURBAN BAYRAMI (2. Gün)", "date": "28 Mayıs 2026", "day": "Perşembe" },
+  { "id": "12", "name": "KURBAN BAYRAMI (3. Gün)", "date": "29 Mayıs 2026", "day": "Cuma" },
+  { "id": "13", "name": "KURBAN BAYRAMI (4. Gün)", "date": "30 Mayıs 2026", "day": "Cumartesi" },
+  { "id": "14", "name": "HİCRİ YILBAŞI", "date": "16 Haziran 2026", "day": "Salı" },
+  { "id": "15", "name": "AŞURE GÜNÜ", "date": "25 Haziran 2026", "day": "Perşembe" },
+  { "id": "16", "name": "MEVLİD KANDİLİ", "date": "24 Ağustos 2026", "day": "Pazartesi" },
+  { "id": "17", "name": "ÜÇ AYLARIN BAŞLANGICI", "date": "10 Aralık 2026", "day": "Perşembe" },
+  { "id": "18", "name": "REGAİB KANDİLİ", "date": "10 Aralık 2026", "day": "Perşembe" }
+]
